@@ -1,0 +1,17 @@
+C:\Users\Erik\Projects\SignalrGameDemo\SignalrGameDemo\bin\SignalrGameDemo.dll
+C:\Users\Erik\Projects\SignalrGameDemo\SignalrGameDemo\bin\SignalrGameDemo.pdb
+C:\Users\Erik\Projects\SignalrGameDemo\SignalrGameDemo\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Erik\Projects\SignalrGameDemo\SignalrGameDemo\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\Erik\Projects\SignalrGameDemo\SignalrGameDemo\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Erik\Projects\SignalrGameDemo\SignalrGameDemo\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Erik\Projects\SignalrGameDemo\SignalrGameDemo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Erik\Projects\SignalrGameDemo\SignalrGameDemo\bin\Newtonsoft.Json.dll
+C:\Users\Erik\Projects\SignalrGameDemo\SignalrGameDemo\bin\Owin.dll
+C:\Users\Erik\Projects\SignalrGameDemo\SignalrGameDemo\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Erik\Projects\SignalrGameDemo\SignalrGameDemo\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\Erik\Projects\SignalrGameDemo\SignalrGameDemo\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Erik\Projects\SignalrGameDemo\SignalrGameDemo\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Erik\Projects\SignalrGameDemo\SignalrGameDemo\bin\Newtonsoft.Json.xml
+C:\Users\Erik\Projects\SignalrGameDemo\SignalrGameDemo\obj\Debug\SignalrGameDemo.csprojResolveAssemblyReference.cache
+C:\Users\Erik\Projects\SignalrGameDemo\SignalrGameDemo\obj\Debug\SignalrGameDemo.dll
+C:\Users\Erik\Projects\SignalrGameDemo\SignalrGameDemo\obj\Debug\SignalrGameDemo.pdb

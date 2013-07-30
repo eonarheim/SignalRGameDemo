@@ -1,0 +1,74 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Tanks!</title>
+    <link href="content/toastr.min.css" rel="stylesheet" />
+    <style>
+        .tank {
+            width: 100px;
+            height: 100px;
+            position: absolute;
+            background-image: url(content/tank.png);
+            background-position: center;
+            background-repeat: no-repeat;
+            -moz-background-size: cover;
+            -o-background-size: cover;
+            -webkit-background-size: cover;
+            background-size: cover;
+            overflow: hidden;
+        }
+
+        .badtank {
+            background-image: url(content/badtank.png) !important;
+        }
+        .bullet {
+            width: 10px;
+            height: 4px;
+            background-color: red;
+            position: absolute;
+            overflow: hidden
+        }
+        body {
+            margin: 0px;
+            background-color: black;
+            
+        }
+
+        #game {
+            height: 800px;
+            width: 1000px;
+            position: relative;
+            background-color: rgb(160, 150, 138);
+            overflow: hidden;
+        }
+
+        #healthbar {
+            position: relative;
+            top: 0;
+            left: 0;
+            height: 20px;
+            background-color: green;
+            -moz-transition: width 2s;
+            -o-transition: width 2s;
+            -webkit-transition: width 2s;
+            transition: width 2s;
+            
+        }
+    </style>
+</head>
+    <body>
+        <!-- Where the game is drawn -->
+        <div id="healthbar"></div>
+        <div id="game">
+            
+        </div>
+        <script src="Scripts/jquery-2.0.3.min.js"></script>
+        <script src="Scripts/jquery.signalR-1.1.2.min.js"></script>
+        <script src="Scripts/underscore.min.js"></script>
+        <script src="Scripts/toastr.js"></script>
+        <!-- magic script -->
+        <script src="/signalr/hubs"></script>
+        <script src="Client/Main.js"></script>
+    </body>
+</html>
+
